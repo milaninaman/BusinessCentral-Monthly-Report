@@ -87,7 +87,7 @@
         },
         {
           "label": "Move model to company's Azure account",
-          "state": "current"
+          "state": "todo"
         },
         {
           "label": "Publish extension in BC",

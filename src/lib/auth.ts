@@ -8,14 +8,15 @@ export const SESSION_DAYS = 30;
 const enc = new TextEncoder();
 
 function config() {
-  const password = process.env.DASHBOARD_PASSWORD;
-  const secret = process.env.AUTH_SECRET;
+  const password = process.env.DASHBOARD_PASSWORD?.trim();
+  const secret = process.env.AUTH_SECRET?.trim();
   if (!password || !secret) return null;
   return { password, secret };
 }
 
-export function isConfigured(): boolean {
-  return config() !== null;
+/** Names of required environment variables that are missing (never their values). */
+export function missingConfig(): string[] {
+  return (["DASHBOARD_PASSWORD", "AUTH_SECRET"] as const).filter((k) => !process.env[k]?.trim());
 }
 
 function toHex(buf: ArrayBuffer): string {
