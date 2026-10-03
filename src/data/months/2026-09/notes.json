@@ -1,0 +1,129 @@
+{
+  "summary": [
+    "{added} records added to BC this month, across {companies} companies",
+    "Built and configured the Excel Loader to speed up data migration from OnePlus to BC",
+    "Reduced external dependency on Angus by deploying our applications on company-owned infrastructure",
+    "Found multiple discrepancies between the current BC and MMRP systems"
+  ],
+  "projects": [
+    {
+      "id": "inbound-excel-loader",
+      "name": "Inbound Excel Loader",
+      "status": "testing",
+      "statusLabel": "In final testing",
+      "summary": "A web app which uploads data from Excel files in bulk directly into Business Central, with no manual typing.",
+      "impact": "Excel files received from OnePlus can now be loaded into BC in bulk, which makes moving each company's data across much faster.",
+      "steps": [
+         {
+          "label": "create AL and Python Scripts",
+          "state": "done"
+        },
+        {
+          "label": "Secure Microsoft sign-in (Entra)",
+          "state": "done"
+        },
+        {
+          "label": "Published extension on Business Central",
+          "state": "done"
+        },
+        {
+          "label": "Build frontend and connected it to BC Extension",
+          "state": "done"
+        },
+        {
+          "label": "Published on company Vercel",
+          "state": "done"
+        },
+        {
+          "label": "User testing",
+          "state": "current"
+        },
+        {
+          "label": "Go live in production",
+          "state": "todo"
+        },
+        {
+          "label": "Testing in Production",
+          "state": "todo"
+        }
+      ],
+      "details": [
+        "Reads Business Central configuration packages in Excel format and loads the data into the right BC tables.",
+        "Uses a dedicated Microsoft Entra application with read and write permissions, so uploads run without manual sign-in steps.",
+        "Python backend extracts the data and pushes it to BC.",
+        "Moved to the company-owned Vercel environment, which reduces our dependency on a third party (Angus).",
+        "Testing with Matheu and Gordon."
+      ],
+      "link": {
+        "label": "Open the app",
+        "url": "https://inbound-loader-ui.vercel.app/login?next=%2F"
+      }
+    },
+    {
+      "id": "ocr-document-scanner",
+      "name": "OCR Document Scanner",
+      "status": "blocked",
+      "statusLabel": "Waiting on Azure access",
+      "summary": "Reads e-signed MMRP forms automatically and fills in the matching Business Central fields.",
+      "impact": "Complex MMRP form data goes straight into BC. Staff only check and correct it instead of typing it in.",
+      "steps": [
+        {"label": "setup alias azure account",
+      "state": "done"},
+        {
+          "label": "Labelled MMRP forms",
+          "state": "done"
+        },
+        {
+          "label": "Trained the AI model on labelled data",
+          "state": "done"
+        },
+        {
+          "label": "Tested the model efficiency",
+          "state": "done"
+        },
+        {
+          "label": "Wrote the BC extension (AL)",
+          "state": "done"
+        },
+        {
+          "label": "Move model to company's Azure account",
+          "state": "current"
+        },
+        {
+          "label": "Publish extension in BC",
+          "state": "todo"
+        },
+        {"label": "Testing the extension with real data",
+      "state": "todo"}
+      ],
+      "details": [
+        "A Business Central extension that uses an Azure Function with Microsoft Document Intelligence.",
+        "The model is fully trained and tested, but currently on a personal account. It needs to be transferred to the company's Azure account.",
+        "The extension code is written but not yet published.",
+        "Document Intelligence is pay-as-you-go, estimated at about CAD 300 per year at our current volume of MMRP documents ."
+      ]
+    }
+  ],
+  "attention": [
+    {
+      "kind": "decision",
+      "title": "Approve Azure Document Intelligence (≈ CAD 300 / year)[INTERNAL][ANGUS]",
+      "detail": "This is the only running cost of the OCR Document Scanner, at our current volume."
+    },
+    {
+      "kind": "dependency",
+      "title": "Azure admin access is held by one external person. [ANGUS]",
+      "detail": "Angus is the only one with Microsoft Azure admin access. He's needed to move the trained OCR model to the company account. The Inbound Excel Loader no longer depends on him."
+    },
+    {
+      "kind":"dependency",
+      "title":" Need Entra access from Microsoft Azure [ANGUS].",
+      "detail": "Need Entra access to setup Microsoft MFA on Inbound Loader Application, and another CLIENT ID for Milani Mobile Application"
+    },
+    {
+      "kind":"dependency",
+      "title": "Need OnePlus API [THIRD-PARTY VENDOR].",
+      "detail": "Need OnePlus API to sync Mobile Application and Website with OnePlus Database."
+    }
+  ]
+}

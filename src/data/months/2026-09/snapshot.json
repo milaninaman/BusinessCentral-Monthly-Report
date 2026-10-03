@@ -1,0 +1,10014 @@
+{
+ "month": "2026-09",
+ "sourceFile": "full table information excel.xlsx",
+ "importedOn": "2026-10-01",
+ "companies": [
+  {
+   "bcName": "Alim 1 Holdings Ltd",
+   "tablesInBc": 2053,
+   "sizeKb": 6864,
+   "tables": [
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 1064
+    },
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 599
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 270
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 170
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 52
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 5
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 5
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 5
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 5
+    },
+    {
+     "no": 1993,
+     "name": "Checklist Item User",
+     "records": 4
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 2
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Alim Holdings Ltd",
+   "tablesInBc": 2053,
+   "sizeKb": 11720,
+   "tables": [
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 1064
+    },
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 583
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 2682,
+     "name": "Data Search Setup (Field)",
+     "records": 359
+    },
+    {
+     "no": 23,
+     "name": "Vendor",
+     "records": 339
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 269
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 169
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 162
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 18,
+     "name": "Customer",
+     "records": 94
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 349,
+     "name": "Dimension Value",
+     "records": 70
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 480,
+     "name": "Dimension Set Entry",
+     "records": 29
+    },
+    {
+     "no": 2681,
+     "name": "Data Search Setup (Table)",
+     "records": 28
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 481,
+     "name": "Dimension Set Tree Node",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 325,
+     "name": "VAT Posting Setup",
+     "records": 6
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 6
+    },
+    {
+     "no": 348,
+     "name": "Dimension",
+     "records": 6
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 5
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 5
+    },
+    {
+     "no": 93,
+     "name": "Vendor Posting Group",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 324,
+     "name": "VAT Product Posting Group",
+     "records": 4
+    },
+    {
+     "no": 322,
+     "name": "Tax Detail",
+     "records": 4
+    },
+    {
+     "no": 92,
+     "name": "Customer Posting Group",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 17,
+     "name": "G/L Entry",
+     "records": 3
+    },
+    {
+     "no": 9,
+     "name": "Country/Region",
+     "records": 3
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 365,
+     "name": "Analysis View Entry",
+     "records": 3
+    },
+    {
+     "no": 319,
+     "name": "Tax Area Line",
+     "records": 3
+    },
+    {
+     "no": 252,
+     "name": "General Posting Setup",
+     "records": 3
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 3
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 3
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 3
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 3
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 3
+    },
+    {
+     "no": 251,
+     "name": "Gen. Product Posting Group",
+     "records": 3
+    },
+    {
+     "no": 250,
+     "name": "Gen. Business Posting Group",
+     "records": 3
+    },
+    {
+     "no": 122,
+     "name": "Purch. Inv. Header",
+     "records": 2
+    },
+    {
+     "no": 123,
+     "name": "Purch. Inv. Line",
+     "records": 2
+    },
+    {
+     "no": 5477,
+     "name": "Purch. Inv. Entity Aggregate",
+     "records": 2
+    },
+    {
+     "no": 8390,
+     "name": "Financial Report Audit Log",
+     "records": 2
+    },
+    {
+     "no": 320,
+     "name": "Tax Jurisdiction",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 323,
+     "name": "VAT Business Posting Group",
+     "records": 2
+    },
+    {
+     "no": 321,
+     "name": "Tax Group",
+     "records": 2
+    },
+    {
+     "no": 318,
+     "name": "Tax Area",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 25,
+     "name": "Vendor Ledger Entry",
+     "records": 1
+    },
+    {
+     "no": 254,
+     "name": "VAT Entry",
+     "records": 1
+    },
+    {
+     "no": 380,
+     "name": "Detailed Vendor Ledg. Entry",
+     "records": 1
+    },
+    {
+     "no": 45,
+     "name": "G/L Register",
+     "records": 1
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 1173,
+     "name": "Document Attachment",
+     "records": 1
+    },
+    {
+     "no": 363,
+     "name": "Analysis View",
+     "records": 1
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 253,
+     "name": "G/L Entry - VAT Entry Link",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 727,
+     "name": "Analysis by Dim. User Param.",
+     "records": 1
+    },
+    {
+     "no": 487,
+     "name": "Business Chart User Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Inalim Investments Ltd",
+   "tablesInBc": 2053,
+   "sizeKb": 6240,
+   "tables": [
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 583
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 169
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 54
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 5
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 2
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Metrotown Rentals Ltd",
+   "tablesInBc": 2053,
+   "sizeKb": 6800,
+   "tables": [
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 599
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 536
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 170
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 162
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 6
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 3
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 3
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Mila Investments Inc",
+   "tablesInBc": 2053,
+   "sizeKb": 6456,
+   "tables": [
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 599
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 536
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 170
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 108
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 5
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 2
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 2
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 2
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Milani Electric Solar & Roofin",
+   "tablesInBc": 2053,
+   "sizeKb": 41776,
+   "tables": [
+    {
+     "no": 8615,
+     "name": "Config. Package Data",
+     "records": 14060
+    },
+    {
+     "no": 5086,
+     "name": "Cont. Duplicate Search String",
+     "records": 8636
+    },
+    {
+     "no": 167,
+     "name": "Job",
+     "records": 5438
+    },
+    {
+     "no": 37,
+     "name": "Sales Line",
+     "records": 2116
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 1878
+    },
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 1787
+    },
+    {
+     "no": 36,
+     "name": "Sales Header",
+     "records": 1650
+    },
+    {
+     "no": 5475,
+     "name": "Sales Invoice Entity Aggregate",
+     "records": 1650
+    },
+    {
+     "no": 5050,
+     "name": "Contact",
+     "records": 1491
+    },
+    {
+     "no": 5054,
+     "name": "Contact Business Relation",
+     "records": 1488
+    },
+    {
+     "no": 18,
+     "name": "Customer",
+     "records": 1444
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 1064
+    },
+    {
+     "no": 27,
+     "name": "Item",
+     "records": 969
+    },
+    {
+     "no": 5404,
+     "name": "Item Unit of Measure",
+     "records": 963
+    },
+    {
+     "no": 10015,
+     "name": "GIFI Code",
+     "records": 722
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 674
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 572
+    },
+    {
+     "no": 17,
+     "name": "G/L Entry",
+     "records": 559
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 554
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 550
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 490
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 469
+    },
+    {
+     "no": 225,
+     "name": "Post Code",
+     "records": 459
+    },
+    {
+     "no": 2682,
+     "name": "Data Search Setup (Field)",
+     "records": 404
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 336
+    },
+    {
+     "no": 380,
+     "name": "Detailed Vendor Ledg. Entry",
+     "records": 299
+    },
+    {
+     "no": 1173,
+     "name": "Document Attachment",
+     "records": 281
+    },
+    {
+     "no": 254,
+     "name": "VAT Entry",
+     "records": 265
+    },
+    {
+     "no": 253,
+     "name": "G/L Entry - VAT Entry Link",
+     "records": 265
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 121,
+     "name": "Purch. Rcpt. Line",
+     "records": 247
+    },
+    {
+     "no": 123,
+     "name": "Purch. Inv. Line",
+     "records": 247
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 231
+    },
+    {
+     "no": 410,
+     "name": "IC G/L Account",
+     "records": 231
+    },
+    {
+     "no": 8614,
+     "name": "Config. Package Record",
+     "records": 185
+    },
+    {
+     "no": 8617,
+     "name": "Config. Package Error",
+     "records": 185
+    },
+    {
+     "no": 45,
+     "name": "G/L Register",
+     "records": 183
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 25,
+     "name": "Vendor Ledger Entry",
+     "records": 181
+    },
+    {
+     "no": 5477,
+     "name": "Purch. Inv. Entity Aggregate",
+     "records": 163
+    },
+    {
+     "no": 122,
+     "name": "Purch. Inv. Header",
+     "records": 155
+    },
+    {
+     "no": 120,
+     "name": "Purch. Rcpt. Header",
+     "records": 155
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 155
+    },
+    {
+     "no": 9,
+     "name": "Country/Region",
+     "records": 139
+    },
+    {
+     "no": 272,
+     "name": "Check Ledger Entry",
+     "records": 138
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 108
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 108
+    },
+    {
+     "no": 6210,
+     "name": "Sustainability Account",
+     "records": 98
+    },
+    {
+     "no": 8390,
+     "name": "Financial Report Audit Log",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 83
+    },
+    {
+     "no": 381,
+     "name": "VAT Registration No. Format",
+     "records": 79
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 5088,
+     "name": "Profile Questionnaire Line",
+     "records": 68
+    },
+    {
+     "no": 11,
+     "name": "Country/Region Translation",
+     "records": 66
+    },
+    {
+     "no": 763,
+     "name": "Acc. Sched. Chart Setup Line",
+     "records": 63
+    },
+    {
+     "no": 2681,
+     "name": "Data Search Setup (Table)",
+     "records": 58
+    },
+    {
+     "no": 6212,
+     "name": "Sustain. Account Subcategory",
+     "records": 58
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 8,
+     "name": "Language",
+     "records": 54
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 50
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 48
+    },
+    {
+     "no": 5169,
+     "name": "Contoso Module Dependency",
+     "records": 47
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 23,
+     "name": "Vendor",
+     "records": 43
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 37
+    },
+    {
+     "no": 5082,
+     "name": "Activity Step",
+     "records": 33
+    },
+    {
+     "no": 462,
+     "name": "Payment Term Translation",
+     "records": 33
+    },
+    {
+     "no": 125,
+     "name": "Purch. Cr. Memo Line",
+     "records": 32
+    },
+    {
+     "no": 5064,
+     "name": "Interaction Template",
+     "records": 31
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 322,
+     "name": "Tax Detail",
+     "records": 30
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 24
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 23
+    },
+    {
+     "no": 6211,
+     "name": "Sustain. Account Category",
+     "records": 23
+    },
+    {
+     "no": 204,
+     "name": "Unit of Measure",
+     "records": 20
+    },
+    {
+     "no": 5161,
+     "name": "Contoso Demo Data Module",
+     "records": 20
+    },
+    {
+     "no": 39,
+     "name": "Purchase Line",
+     "records": 19
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1530,
+     "name": "Workflow Step Instance Archive",
+     "records": 19
+    },
+    {
+     "no": 319,
+     "name": "Tax Area Line",
+     "records": 18
+    },
+    {
+     "no": 1436,
+     "name": "Ess. Business Headline Per Usr",
+     "records": 18
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 700,
+     "name": "Error Message",
+     "records": 16
+    },
+    {
+     "no": 124,
+     "name": "Purch. Cr. Memo Hdr.",
+     "records": 16
+    },
+    {
+     "no": 5823,
+     "name": "G/L - Item Ledger Relation",
+     "records": 16
+    },
+    {
+     "no": 5508,
+     "name": "Purch. Cr. Memo Entity Buffer",
+     "records": 16
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 16
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 16
+    },
+    {
+     "no": 5095,
+     "name": "Duplicate Search String Setup",
+     "records": 16
+    },
+    {
+     "no": 252,
+     "name": "General Posting Setup",
+     "records": 15
+    },
+    {
+     "no": 701,
+     "name": "Error Message Register",
+     "records": 15
+    },
+    {
+     "no": 286,
+     "name": "Territory",
+     "records": 15
+    },
+    {
+     "no": 10,
+     "name": "Shipment Method",
+     "records": 15
+    },
+    {
+     "no": 38,
+     "name": "Purchase Header",
+     "records": 14
+    },
+    {
+     "no": 1531,
+     "name": "Workflow Step Argument Archive",
+     "records": 14
+    },
+    {
+     "no": 318,
+     "name": "Tax Area",
+     "records": 14
+    },
+    {
+     "no": 271,
+     "name": "Bank Account Ledger Entry",
+     "records": 13
+    },
+    {
+     "no": 50,
+     "name": "Accounting Period",
+     "records": 13
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 13
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 5402,
+     "name": "Unit of Measure Translation",
+     "records": 13
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 13
+    },
+    {
+     "no": 480,
+     "name": "Dimension Set Entry",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 2121,
+     "name": "O365 Brand Color",
+     "records": 12
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 12
+    },
+    {
+     "no": 417,
+     "name": "Handled IC Outbox Jnl. Line",
+     "records": 12
+    },
+    {
+     "no": 3,
+     "name": "Payment Terms",
+     "records": 12
+    },
+    {
+     "no": 81,
+     "name": "Gen. Journal Line",
+     "records": 11
+    },
+    {
+     "no": 5842,
+     "name": "Cost Adjmt. Action Message",
+     "records": 11
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 11
+    },
+    {
+     "no": 7308,
+     "name": "Put-away Template Line",
+     "records": 11
+    },
+    {
+     "no": 466,
+     "name": "Payment Method Translation",
+     "records": 11
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 11
+    },
+    {
+     "no": 32,
+     "name": "Item Ledger Entry",
+     "records": 10
+    },
+    {
+     "no": 5802,
+     "name": "Value Entry",
+     "records": 10
+    },
+    {
+     "no": 320,
+     "name": "Tax Jurisdiction",
+     "records": 10
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 327,
+     "name": "Tax Jurisdiction Translation",
+     "records": 10
+    },
+    {
+     "no": 294,
+     "name": "Reminder Text",
+     "records": 10
+    },
+    {
+     "no": 6124,
+     "name": "E-Document Log",
+     "records": 9
+    },
+    {
+     "no": 9988,
+     "name": "Word Template",
+     "records": 9
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 9
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 6213,
+     "name": "Sustainability Jnl. Batch",
+     "records": 9
+    },
+    {
+     "no": 5091,
+     "name": "Sales Cycle Stage",
+     "records": 9
+    },
+    {
+     "no": 5081,
+     "name": "Activity",
+     "records": 9
+    },
+    {
+     "no": 1318,
+     "name": "Trial Balance Cache",
+     "records": 9
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 9
+    },
+    {
+     "no": 339,
+     "name": "Item Application Entry",
+     "records": 8
+    },
+    {
+     "no": 349,
+     "name": "Dimension Value",
+     "records": 8
+    },
+    {
+     "no": 5204,
+     "name": "Relative",
+     "records": 8
+    },
+    {
+     "no": 5068,
+     "name": "Salutation",
+     "records": 8
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1310,
+     "name": "Chart Definition",
+     "records": 8
+    },
+    {
+     "no": 481,
+     "name": "Dimension Set Tree Node",
+     "records": 8
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 7
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 7
+    },
+    {
+     "no": 8060,
+     "name": "Billing Template",
+     "records": 7
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 7
+    },
+    {
+     "no": 1900,
+     "name": "Cancelled Document",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 1213,
+     "name": "Data Exchange Type",
+     "records": 7
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 7
+    },
+    {
+     "no": 316,
+     "name": "Tax Area Translation",
+     "records": 7
+    },
+    {
+     "no": 251,
+     "name": "Gen. Product Posting Group",
+     "records": 7
+    },
+    {
+     "no": 46,
+     "name": "Item Register",
+     "records": 6
+    },
+    {
+     "no": 5496,
+     "name": "Purchase Order Entity Buffer",
+     "records": 6
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 6
+    },
+    {
+     "no": 5083,
+     "name": "Team",
+     "records": 6
+    },
+    {
+     "no": 5073,
+     "name": "Campaign Status",
+     "records": 6
+    },
+    {
+     "no": 5070,
+     "name": "Organizational Level",
+     "records": 6
+    },
+    {
+     "no": 5063,
+     "name": "Interaction Group",
+     "records": 6
+    },
+    {
+     "no": 2632,
+     "name": "Statistical Account",
+     "records": 6
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 6
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 6
+    },
+    {
+     "no": 416,
+     "name": "Handled IC Outbox Trans.",
+     "records": 6
+    },
+    {
+     "no": 293,
+     "name": "Reminder Level",
+     "records": 6
+    },
+    {
+     "no": 92,
+     "name": "Customer Posting Group",
+     "records": 6
+    },
+    {
+     "no": 1001,
+     "name": "Job Task",
+     "records": 5
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 5790,
+     "name": "Shipping Agent Services",
+     "records": 5
+    },
+    {
+     "no": 5608,
+     "name": "FA Subclass",
+     "records": 5
+    },
+    {
+     "no": 5606,
+     "name": "FA Posting Group",
+     "records": 5
+    },
+    {
+     "no": 3304,
+     "name": "Payables Agent KPI",
+     "records": 5
+    },
+    {
+     "no": 324,
+     "name": "VAT Product Posting Group",
+     "records": 5
+    },
+    {
+     "no": 6125,
+     "name": "E-Doc. Data Storage",
+     "records": 4
+    },
+    {
+     "no": 1003,
+     "name": "Job Planning Line",
+     "records": 4
+    },
+    {
+     "no": 169,
+     "name": "Job Ledger Entry",
+     "records": 4
+    },
+    {
+     "no": 325,
+     "name": "VAT Posting Setup",
+     "records": 4
+    },
+    {
+     "no": 241,
+     "name": "Job Register",
+     "records": 4
+    },
+    {
+     "no": 6635,
+     "name": "Return Reason",
+     "records": 4
+    },
+    {
+     "no": 1020,
+     "name": "Job Usage Link",
+     "records": 4
+    },
+    {
+     "no": 291,
+     "name": "Shipping Agent",
+     "records": 4
+    },
+    {
+     "no": 93,
+     "name": "Vendor Posting Group",
+     "records": 4
+    },
+    {
+     "no": 8053,
+     "name": "Subscription Contract Type",
+     "records": 4
+    },
+    {
+     "no": 5609,
+     "name": "FA Location",
+     "records": 4
+    },
+    {
+     "no": 5604,
+     "name": "FA Posting Type Setup",
+     "records": 4
+    },
+    {
+     "no": 5215,
+     "name": "Confidential",
+     "records": 4
+    },
+    {
+     "no": 5213,
+     "name": "Misc. Article",
+     "records": 4
+    },
+    {
+     "no": 5053,
+     "name": "Business Relation",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 589,
+     "name": "G/L Account Source Currency",
+     "records": 4
+    },
+    {
+     "no": 348,
+     "name": "Dimension",
+     "records": 4
+    },
+    {
+     "no": 250,
+     "name": "Gen. Business Posting Group",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 6103,
+     "name": "E-Document Service",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 7307,
+     "name": "Put-away Template Header",
+     "records": 3
+    },
+    {
+     "no": 6226,
+     "name": "Emission Fee",
+     "records": 3
+    },
+    {
+     "no": 5813,
+     "name": "Inventory Posting Setup",
+     "records": 3
+    },
+    {
+     "no": 5607,
+     "name": "FA Class",
+     "records": 3
+    },
+    {
+     "no": 5217,
+     "name": "Grounds for Termination",
+     "records": 3
+    },
+    {
+     "no": 5212,
+     "name": "Employee Statistics Group",
+     "records": 3
+    },
+    {
+     "no": 5206,
+     "name": "Cause of Absence",
+     "records": 3
+    },
+    {
+     "no": 5087,
+     "name": "Profile Questionnaire Header",
+     "records": 3
+    },
+    {
+     "no": 1512,
+     "name": "Notification Setup",
+     "records": 3
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 3
+    },
+    {
+     "no": 487,
+     "name": "Business Chart User Setup",
+     "records": 3
+    },
+    {
+     "no": 321,
+     "name": "Tax Group",
+     "records": 3
+    },
+    {
+     "no": 200,
+     "name": "Work Type",
+     "records": 3
+    },
+    {
+     "no": 136,
+     "name": "Acc. Sched. KPI Web Srv. Line",
+     "records": 3
+    },
+    {
+     "no": 94,
+     "name": "Inventory Posting Group",
+     "records": 3
+    },
+    {
+     "no": 6121,
+     "name": "E-Document",
+     "records": 2
+    },
+    {
+     "no": 6138,
+     "name": "E-Document Service Status",
+     "records": 2
+    },
+    {
+     "no": 352,
+     "name": "Default Dimension",
+     "records": 2
+    },
+    {
+     "no": 91,
+     "name": "User Setup",
+     "records": 2
+    },
+    {
+     "no": 8003,
+     "name": "Price Update Template",
+     "records": 2
+    },
+    {
+     "no": 6101,
+     "name": "E-Document Purchase Line",
+     "records": 2
+    },
+    {
+     "no": 5804,
+     "name": "Avg. Cost Adjmt. Entry Point",
+     "records": 2
+    },
+    {
+     "no": 1700,
+     "name": "Deferral Template",
+     "records": 2
+    },
+    {
+     "no": 60,
+     "name": "Document Sending Profile",
+     "records": 2
+    },
+    {
+     "no": 6314,
+     "name": "Power BI Context Settings",
+     "records": 2
+    },
+    {
+     "no": 6219,
+     "name": "Sustainability Goal",
+     "records": 2
+    },
+    {
+     "no": 6215,
+     "name": "Sustainability Jnl. Template",
+     "records": 2
+    },
+    {
+     "no": 6100,
+     "name": "E-Document Purchase Header",
+     "records": 2
+    },
+    {
+     "no": 5619,
+     "name": "FA Journal Template",
+     "records": 2
+    },
+    {
+     "no": 5220,
+     "name": "Human Resource Unit of Measure",
+     "records": 2
+    },
+    {
+     "no": 5103,
+     "name": "Interaction Tmpl. Language",
+     "records": 2
+    },
+    {
+     "no": 5090,
+     "name": "Sales Cycle",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1458,
+     "name": "RC Headlines User Data",
+     "records": 2
+    },
+    {
+     "no": 746,
+     "name": "VAT Reports Configuration",
+     "records": 2
+    },
+    {
+     "no": 292,
+     "name": "Reminder Terms",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 245,
+     "name": "Requisition Wksh. Name",
+     "records": 2
+    },
+    {
+     "no": 244,
+     "name": "Req. Wksh. Template",
+     "records": 2
+    },
+    {
+     "no": 5,
+     "name": "Finance Charge Terms",
+     "records": 2
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 181,
+     "name": "Posted Gen. Journal Line",
+     "records": 1
+    },
+    {
+     "no": 710,
+     "name": "Activity Log",
+     "records": 1
+    },
+    {
+     "no": 1382,
+     "name": "Item Templ.",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 5221,
+     "name": "Employee Posting Group",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 456,
+     "name": "Posted Approval Entry",
+     "records": 1
+    },
+    {
+     "no": 343,
+     "name": "Item Application Entry History",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 209,
+     "name": "Job Journal Template",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 82,
+     "name": "Item Journal Template",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000875,
+     "name": "Order Promising Setup",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8101,
+     "name": "Sub. Billing Module Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6383,
+     "name": "Outlook Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6218,
+     "name": "Sustainability Scorecard",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6116,
+     "name": "E-Doc. PO Matching Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5814,
+     "name": "Inventory Period",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5634,
+     "name": "Insurance Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 5633,
+     "name": "Insurance Journal Template",
+     "records": 1
+    },
+    {
+     "no": 5620,
+     "name": "FA Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 5611,
+     "name": "Depreciation Book",
+     "records": 1
+    },
+    {
+     "no": 5605,
+     "name": "FA Journal Setup",
+     "records": 1
+    },
+    {
+     "no": 5296,
+     "name": "EService Demo Data Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 4772,
+     "name": "Finance Module Setup",
+     "records": 1
+    },
+    {
+     "no": 4771,
+     "name": "Jobs Module Setup",
+     "records": 1
+    },
+    {
+     "no": 4770,
+     "name": "Human Resources Module Setup",
+     "records": 1
+    },
+    {
+     "no": 4768,
+     "name": "Contoso Coffee Demo Data Setup",
+     "records": 1
+    },
+    {
+     "no": 4767,
+     "name": "FA Module Setup",
+     "records": 1
+    },
+    {
+     "no": 4764,
+     "name": "Warehouse Module Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 2630,
+     "name": "Statistical Acc. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1665,
+     "name": "MS Ceridian Payroll Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1317,
+     "name": "Trial Balance Cache Info",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 1015,
+     "name": "Job Entry No.",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 801,
+     "name": "Online Map Parameter Setup",
+     "records": 1
+    },
+    {
+     "no": 800,
+     "name": "Online Map Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 413,
+     "name": "IC Partner",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 323,
+     "name": "VAT Business Posting Group",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 276,
+     "name": "Bank Account Statement Line",
+     "records": 1
+    },
+    {
+     "no": 275,
+     "name": "Bank Account Statement",
+     "records": 1
+    },
+    {
+     "no": 273,
+     "name": "Bank Acc. Reconciliation",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 237,
+     "name": "Job Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 233,
+     "name": "Item Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 208,
+     "name": "Job Posting Group",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 182,
+     "name": "Posted Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 135,
+     "name": "Acc. Sched. KPI Web Srv. Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    },
+    {
+     "no": 95,
+     "name": "G/L Budget Name",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Milani Hydro Vacuum Excavation",
+   "tablesInBc": 2053,
+   "sizeKb": 6864,
+   "tables": [
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 1064
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 375
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 216
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 156
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 6
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 4
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Milani Plumbing",
+   "tablesInBc": 2053,
+   "sizeKb": 45672,
+   "tables": [
+    {
+     "no": 8615,
+     "name": "Config. Package Data",
+     "records": 26491
+    },
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 16887
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 5247
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 3337
+    },
+    {
+     "no": 17,
+     "name": "G/L Entry",
+     "records": 1147
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 1044
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 841
+    },
+    {
+     "no": 1506,
+     "name": "Workflow Table Relation Value",
+     "records": 778
+    },
+    {
+     "no": 10015,
+     "name": "GIFI Code",
+     "records": 722
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 652
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 593
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 562
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 555
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 531
+    },
+    {
+     "no": 410,
+     "name": "IC G/L Account",
+     "records": 524
+    },
+    {
+     "no": 1530,
+     "name": "Workflow Step Instance Archive",
+     "records": 418
+    },
+    {
+     "no": 2682,
+     "name": "Data Search Setup (Field)",
+     "records": 409
+    },
+    {
+     "no": 380,
+     "name": "Detailed Vendor Ledg. Entry",
+     "records": 387
+    },
+    {
+     "no": 167,
+     "name": "Job",
+     "records": 360
+    },
+    {
+     "no": 8614,
+     "name": "Config. Package Record",
+     "records": 346
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 344
+    },
+    {
+     "no": 700,
+     "name": "Error Message",
+     "records": 340
+    },
+    {
+     "no": 45,
+     "name": "G/L Register",
+     "records": 334
+    },
+    {
+     "no": 8624,
+     "name": "Config. Related Field",
+     "records": 326
+    },
+    {
+     "no": 1531,
+     "name": "Workflow Step Argument Archive",
+     "records": 308
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 283
+    },
+    {
+     "no": 5050,
+     "name": "Contact",
+     "records": 256
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 25,
+     "name": "Vendor Ledger Entry",
+     "records": 246
+    },
+    {
+     "no": 5054,
+     "name": "Contact Business Relation",
+     "records": 246
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 207
+    },
+    {
+     "no": 18,
+     "name": "Customer",
+     "records": 195
+    },
+    {
+     "no": 181,
+     "name": "Posted Gen. Journal Line",
+     "records": 177
+    },
+    {
+     "no": 8617,
+     "name": "Config. Package Error",
+     "records": 174
+    },
+    {
+     "no": 8625,
+     "name": "Config. Related Table",
+     "records": 165
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 157
+    },
+    {
+     "no": 121,
+     "name": "Purch. Rcpt. Line",
+     "records": 153
+    },
+    {
+     "no": 123,
+     "name": "Purch. Inv. Line",
+     "records": 153
+    },
+    {
+     "no": 1504,
+     "name": "Workflow Step Instance",
+     "records": 146
+    },
+    {
+     "no": 254,
+     "name": "VAT Entry",
+     "records": 145
+    },
+    {
+     "no": 253,
+     "name": "G/L Entry - VAT Entry Link",
+     "records": 145
+    },
+    {
+     "no": 701,
+     "name": "Error Message Register",
+     "records": 139
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 136
+    },
+    {
+     "no": 349,
+     "name": "Dimension Value",
+     "records": 128
+    },
+    {
+     "no": 379,
+     "name": "Detailed Cust. Ledg. Entry",
+     "records": 118
+    },
+    {
+     "no": 113,
+     "name": "Sales Invoice Line",
+     "records": 116
+    },
+    {
+     "no": 111,
+     "name": "Sales Shipment Line",
+     "records": 116
+    },
+    {
+     "no": 5477,
+     "name": "Purch. Inv. Entity Aggregate",
+     "records": 107
+    },
+    {
+     "no": 1003,
+     "name": "Job Planning Line",
+     "records": 103
+    },
+    {
+     "no": 365,
+     "name": "Analysis View Entry",
+     "records": 103
+    },
+    {
+     "no": 122,
+     "name": "Purch. Inv. Header",
+     "records": 102
+    },
+    {
+     "no": 120,
+     "name": "Purch. Rcpt. Header",
+     "records": 102
+    },
+    {
+     "no": 271,
+     "name": "Bank Account Ledger Entry",
+     "records": 97
+    },
+    {
+     "no": 169,
+     "name": "Job Ledger Entry",
+     "records": 85
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 82
+    },
+    {
+     "no": 21,
+     "name": "Cust. Ledger Entry",
+     "records": 76
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 75
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 75
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 74
+    },
+    {
+     "no": 5475,
+     "name": "Sales Invoice Entity Aggregate",
+     "records": 72
+    },
+    {
+     "no": 8619,
+     "name": "Config. Template Line",
+     "records": 70
+    },
+    {
+     "no": 10010,
+     "name": "IRS 1099 Form-Box",
+     "records": 69
+    },
+    {
+     "no": 9,
+     "name": "Country/Region",
+     "records": 68
+    },
+    {
+     "no": 5088,
+     "name": "Profile Questionnaire Line",
+     "records": 68
+    },
+    {
+     "no": 847,
+     "name": "Cash Flow Forecast Entry",
+     "records": 67
+    },
+    {
+     "no": 276,
+     "name": "Bank Account Statement Line",
+     "records": 67
+    },
+    {
+     "no": 112,
+     "name": "Sales Invoice Header",
+     "records": 66
+    },
+    {
+     "no": 110,
+     "name": "Sales Shipment Header",
+     "records": 66
+    },
+    {
+     "no": 272,
+     "name": "Check Ledger Entry",
+     "records": 66
+    },
+    {
+     "no": 11,
+     "name": "Country/Region Translation",
+     "records": 66
+    },
+    {
+     "no": 1299,
+     "name": "Payment Matching Details",
+     "records": 64
+    },
+    {
+     "no": 852,
+     "name": "Cash Flow Azure AI Buffer",
+     "records": 64
+    },
+    {
+     "no": 1001,
+     "name": "Job Task",
+     "records": 62
+    },
+    {
+     "no": 2681,
+     "name": "Data Search Setup (Table)",
+     "records": 58
+    },
+    {
+     "no": 1022,
+     "name": "Job Planning Line Invoice",
+     "records": 57
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 5823,
+     "name": "G/L - Item Ledger Relation",
+     "records": 54
+    },
+    {
+     "no": 241,
+     "name": "Job Register",
+     "records": 54
+    },
+    {
+     "no": 8,
+     "name": "Language",
+     "records": 54
+    },
+    {
+     "no": 23,
+     "name": "Vendor",
+     "records": 50
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 50
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 49
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 7701,
+     "name": "Miniform Line",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 7703,
+     "name": "Miniform Function",
+     "records": 41
+    },
+    {
+     "no": 1221,
+     "name": "Data Exch. Field",
+     "records": 40
+    },
+    {
+     "no": 203,
+     "name": "Res. Ledger Entry",
+     "records": 39
+    },
+    {
+     "no": 240,
+     "name": "Resource Register",
+     "records": 39
+    },
+    {
+     "no": 8622,
+     "name": "Config. Line",
+     "records": 38
+    },
+    {
+     "no": 763,
+     "name": "Acc. Sched. Chart Setup Line",
+     "records": 38
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 37
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 37
+    },
+    {
+     "no": 322,
+     "name": "Tax Detail",
+     "records": 36
+    },
+    {
+     "no": 5802,
+     "name": "Value Entry",
+     "records": 34
+    },
+    {
+     "no": 125,
+     "name": "Purch. Cr. Memo Line",
+     "records": 34
+    },
+    {
+     "no": 5082,
+     "name": "Activity Step",
+     "records": 33
+    },
+    {
+     "no": 462,
+     "name": "Payment Term Translation",
+     "records": 33
+    },
+    {
+     "no": 32,
+     "name": "Item Ledger Entry",
+     "records": 32
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 29
+    },
+    {
+     "no": 81,
+     "name": "Gen. Journal Line",
+     "records": 27
+    },
+    {
+     "no": 5065,
+     "name": "Interaction Log Entry",
+     "records": 27
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 27
+    },
+    {
+     "no": 339,
+     "name": "Item Application Entry",
+     "records": 26
+    },
+    {
+     "no": 46,
+     "name": "Item Register",
+     "records": 26
+    },
+    {
+     "no": 5064,
+     "name": "Interaction Template",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 26
+    },
+    {
+     "no": 8909,
+     "name": "Email Related Record",
+     "records": 25
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 25
+    },
+    {
+     "no": 5402,
+     "name": "Unit of Measure Translation",
+     "records": 24
+    },
+    {
+     "no": 319,
+     "name": "Tax Area Line",
+     "records": 20
+    },
+    {
+     "no": 5508,
+     "name": "Purch. Cr. Memo Entity Buffer",
+     "records": 19
+    },
+    {
+     "no": 5842,
+     "name": "Cost Adjmt. Action Message",
+     "records": 19
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 39,
+     "name": "Purchase Line",
+     "records": 18
+    },
+    {
+     "no": 8903,
+     "name": "Email Recipient",
+     "records": 18
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 8900,
+     "name": "Email Message",
+     "records": 17
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 17
+    },
+    {
+     "no": 1220,
+     "name": "Data Exch.",
+     "records": 16
+    },
+    {
+     "no": 252,
+     "name": "General Posting Setup",
+     "records": 16
+    },
+    {
+     "no": 318,
+     "name": "Tax Area",
+     "records": 16
+    },
+    {
+     "no": 5601,
+     "name": "FA Ledger Entry",
+     "records": 15
+    },
+    {
+     "no": 124,
+     "name": "Purch. Cr. Memo Hdr.",
+     "records": 15
+    },
+    {
+     "no": 8889,
+     "name": "Sent Email",
+     "records": 15
+    },
+    {
+     "no": 1005,
+     "name": "Job WIP G/L Entry",
+     "records": 15
+    },
+    {
+     "no": 6124,
+     "name": "E-Document Log",
+     "records": 15
+    },
+    {
+     "no": 456,
+     "name": "Posted Approval Entry",
+     "records": 15
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 15
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 15
+    },
+    {
+     "no": 1173,
+     "name": "Document Attachment",
+     "records": 14
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 14
+    },
+    {
+     "no": 38,
+     "name": "Purchase Header",
+     "records": 13
+    },
+    {
+     "no": 454,
+     "name": "Approval Entry",
+     "records": 13
+    },
+    {
+     "no": 204,
+     "name": "Unit of Measure",
+     "records": 13
+    },
+    {
+     "no": 50,
+     "name": "Accounting Period",
+     "records": 13
+    },
+    {
+     "no": 1900,
+     "name": "Cancelled Document",
+     "records": 13
+    },
+    {
+     "no": 1691,
+     "name": "Posted Bank Deposit Header",
+     "records": 13
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 320,
+     "name": "Tax Jurisdiction",
+     "records": 13
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 13
+    },
+    {
+     "no": 275,
+     "name": "Bank Account Statement",
+     "records": 13
+    },
+    {
+     "no": 3,
+     "name": "Payment Terms",
+     "records": 13
+    },
+    {
+     "no": 1692,
+     "name": "Posted Bank Deposit Line",
+     "records": 12
+    },
+    {
+     "no": 841,
+     "name": "Cash Flow Account",
+     "records": 12
+    },
+    {
+     "no": 5644,
+     "name": "FA Posting Type",
+     "records": 12
+    },
+    {
+     "no": 2121,
+     "name": "O365 Brand Color",
+     "records": 12
+    },
+    {
+     "no": 1436,
+     "name": "Ess. Business Headline Per Usr",
+     "records": 12
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 12
+    },
+    {
+     "no": 37,
+     "name": "Sales Line",
+     "records": 11
+    },
+    {
+     "no": 1021,
+     "name": "Job WIP Total",
+     "records": 11
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 11
+    },
+    {
+     "no": 274,
+     "name": "Bank Acc. Reconciliation Line",
+     "records": 11
+    },
+    {
+     "no": 1328,
+     "name": "Top Customers By Sales Buffer",
+     "records": 11
+    },
+    {
+     "no": 466,
+     "name": "Payment Method Translation",
+     "records": 11
+    },
+    {
+     "no": 480,
+     "name": "Dimension Set Entry",
+     "records": 10
+    },
+    {
+     "no": 325,
+     "name": "VAT Posting Setup",
+     "records": 10
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 10
+    },
+    {
+     "no": 8618,
+     "name": "Config. Template Header",
+     "records": 10
+    },
+    {
+     "no": 5645,
+     "name": "FA Date Type",
+     "records": 10
+    },
+    {
+     "no": 503,
+     "name": "Reminder Email Text",
+     "records": 10
+    },
+    {
+     "no": 294,
+     "name": "Reminder Text",
+     "records": 10
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 10
+    },
+    {
+     "no": 7702,
+     "name": "Miniform Function Group",
+     "records": 10
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 504,
+     "name": "Reminder Attachment Text Line",
+     "records": 10
+    },
+    {
+     "no": 502,
+     "name": "Reminder Attachment Text",
+     "records": 10
+    },
+    {
+     "no": 327,
+     "name": "Tax Jurisdiction Translation",
+     "records": 10
+    },
+    {
+     "no": 7700,
+     "name": "Miniform Header",
+     "records": 9
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 5091,
+     "name": "Sales Cycle Stage",
+     "records": 9
+    },
+    {
+     "no": 5081,
+     "name": "Activity",
+     "records": 9
+    },
+    {
+     "no": 1318,
+     "name": "Trial Balance Cache",
+     "records": 9
+    },
+    {
+     "no": 36,
+     "name": "Sales Header",
+     "records": 8
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 8
+    },
+    {
+     "no": 5804,
+     "name": "Avg. Cost Adjmt. Entry Point",
+     "records": 8
+    },
+    {
+     "no": 5617,
+     "name": "FA Register",
+     "records": 8
+    },
+    {
+     "no": 8626,
+     "name": "Config. Package Filter",
+     "records": 8
+    },
+    {
+     "no": 5609,
+     "name": "FA Location",
+     "records": 8
+    },
+    {
+     "no": 5604,
+     "name": "FA Posting Type Setup",
+     "records": 8
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1310,
+     "name": "Chart Definition",
+     "records": 8
+    },
+    {
+     "no": 589,
+     "name": "G/L Account Source Currency",
+     "records": 8
+    },
+    {
+     "no": 481,
+     "name": "Dimension Set Tree Node",
+     "records": 8
+    },
+    {
+     "no": 6141,
+     "name": "E-Doc. Record Link",
+     "records": 7
+    },
+    {
+     "no": 352,
+     "name": "Default Dimension",
+     "records": 7
+    },
+    {
+     "no": 175,
+     "name": "Standard Vendor Purchase Code",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 3304,
+     "name": "Payables Agent KPI",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 869,
+     "name": "Cash Flow Chart Setup",
+     "records": 7
+    },
+    {
+     "no": 348,
+     "name": "Dimension",
+     "records": 7
+    },
+    {
+     "no": 316,
+     "name": "Tax Area Translation",
+     "records": 7
+    },
+    {
+     "no": 27,
+     "name": "Item",
+     "records": 6
+    },
+    {
+     "no": 115,
+     "name": "Sales Cr.Memo Line",
+     "records": 6
+    },
+    {
+     "no": 5404,
+     "name": "Item Unit of Measure",
+     "records": 6
+    },
+    {
+     "no": 9988,
+     "name": "Word Template",
+     "records": 6
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 6
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 6
+    },
+    {
+     "no": 1993,
+     "name": "Checklist Item User",
+     "records": 6
+    },
+    {
+     "no": 9154,
+     "name": "My Job",
+     "records": 6
+    },
+    {
+     "no": 5063,
+     "name": "Interaction Group",
+     "records": 6
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 6
+    },
+    {
+     "no": 2671,
+     "name": "Alloc. Account Distribution",
+     "records": 6
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 6
+    },
+    {
+     "no": 293,
+     "name": "Reminder Level",
+     "records": 6
+    },
+    {
+     "no": 251,
+     "name": "Gen. Product Posting Group",
+     "records": 6
+    },
+    {
+     "no": 92,
+     "name": "Customer Posting Group",
+     "records": 6
+    },
+    {
+     "no": 89,
+     "name": "Financial Report User Filters",
+     "records": 6
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 6
+    },
+    {
+     "no": 9151,
+     "name": "My Vendor",
+     "records": 5
+    },
+    {
+     "no": 8620,
+     "name": "Config. Tmpl. Selection Rules",
+     "records": 5
+    },
+    {
+     "no": 6101,
+     "name": "E-Document Purchase Line",
+     "records": 5
+    },
+    {
+     "no": 1020,
+     "name": "Job Usage Link",
+     "records": 5
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 5790,
+     "name": "Shipping Agent Services",
+     "records": 5
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 5
+    },
+    {
+     "no": 324,
+     "name": "VAT Product Posting Group",
+     "records": 5
+    },
+    {
+     "no": 182,
+     "name": "Posted Gen. Journal Batch",
+     "records": 5
+    },
+    {
+     "no": 174,
+     "name": "Standard Purchase Line",
+     "records": 5
+    },
+    {
+     "no": 173,
+     "name": "Standard Purchase Code",
+     "records": 5
+    },
+    {
+     "no": 6125,
+     "name": "E-Doc. Data Storage",
+     "records": 4
+    },
+    {
+     "no": 8073,
+     "name": "Subscription Line Archive",
+     "records": 4
+    },
+    {
+     "no": 291,
+     "name": "Shipping Agent",
+     "records": 4
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 4
+    },
+    {
+     "no": 5606,
+     "name": "FA Posting Group",
+     "records": 4
+    },
+    {
+     "no": 5053,
+     "name": "Business Relation",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 4
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 4
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 4
+    },
+    {
+     "no": 250,
+     "name": "Gen. Business Posting Group",
+     "records": 4
+    },
+    {
+     "no": 152,
+     "name": "Resource Group",
+     "records": 4
+    },
+    {
+     "no": 114,
+     "name": "Sales Cr.Memo Header",
+     "records": 3
+    },
+    {
+     "no": 1004,
+     "name": "Job WIP Entry",
+     "records": 3
+    },
+    {
+     "no": 5507,
+     "name": "Sales Cr. Memo Entity Buffer",
+     "records": 3
+    },
+    {
+     "no": 5496,
+     "name": "Purchase Order Entity Buffer",
+     "records": 3
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 13,
+     "name": "Salesperson/Purchaser",
+     "records": 3
+    },
+    {
+     "no": 9153,
+     "name": "My Account",
+     "records": 3
+    },
+    {
+     "no": 8912,
+     "name": "Email Rate Limit",
+     "records": 3
+    },
+    {
+     "no": 1514,
+     "name": "Sent Notification Entry",
+     "records": 3
+    },
+    {
+     "no": 457,
+     "name": "Posted Approval Comment Line",
+     "records": 3
+    },
+    {
+     "no": 82,
+     "name": "Item Journal Template",
+     "records": 3
+    },
+    {
+     "no": 5813,
+     "name": "Inventory Posting Setup",
+     "records": 3
+    },
+    {
+     "no": 5620,
+     "name": "FA Journal Batch",
+     "records": 3
+    },
+    {
+     "no": 5619,
+     "name": "FA Journal Template",
+     "records": 3
+    },
+    {
+     "no": 5087,
+     "name": "Profile Questionnaire Header",
+     "records": 3
+    },
+    {
+     "no": 2119,
+     "name": "O365 Payment Service Logo",
+     "records": 3
+    },
+    {
+     "no": 1458,
+     "name": "RC Headlines User Data",
+     "records": 3
+    },
+    {
+     "no": 357,
+     "name": "Gen. Jnl. Dim. Filter",
+     "records": 3
+    },
+    {
+     "no": 321,
+     "name": "Tax Group",
+     "records": 3
+    },
+    {
+     "no": 221,
+     "name": "Gen. Jnl. Allocation",
+     "records": 3
+    },
+    {
+     "no": 208,
+     "name": "Job Posting Group",
+     "records": 3
+    },
+    {
+     "no": 136,
+     "name": "Acc. Sched. KPI Web Srv. Line",
+     "records": 3
+    },
+    {
+     "no": 5600,
+     "name": "Fixed Asset",
+     "records": 2
+    },
+    {
+     "no": 6121,
+     "name": "E-Document",
+     "records": 2
+    },
+    {
+     "no": 83,
+     "name": "Item Journal Line",
+     "records": 2
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 2
+    },
+    {
+     "no": 130,
+     "name": "Incoming Document",
+     "records": 2
+    },
+    {
+     "no": 8888,
+     "name": "Email Outbox",
+     "records": 2
+    },
+    {
+     "no": 5800,
+     "name": "Item Charge",
+     "records": 2
+    },
+    {
+     "no": 5612,
+     "name": "FA Depreciation Book",
+     "records": 2
+    },
+    {
+     "no": 710,
+     "name": "Activity Log",
+     "records": 2
+    },
+    {
+     "no": 225,
+     "name": "Post Code",
+     "records": 2
+    },
+    {
+     "no": 8901,
+     "name": "Email Error",
+     "records": 2
+    },
+    {
+     "no": 6138,
+     "name": "E-Document Service Status",
+     "records": 2
+    },
+    {
+     "no": 5495,
+     "name": "Sales Order Entity Buffer",
+     "records": 2
+    },
+    {
+     "no": 210,
+     "name": "Job Journal Line",
+     "records": 2
+    },
+    {
+     "no": 91,
+     "name": "User Setup",
+     "records": 2
+    },
+    {
+     "no": 8057,
+     "name": "Subscription Header",
+     "records": 2
+    },
+    {
+     "no": 8390,
+     "name": "Financial Report Audit Log",
+     "records": 2
+    },
+    {
+     "no": 1550,
+     "name": "Restricted Record",
+     "records": 2
+    },
+    {
+     "no": 93,
+     "name": "Vendor Posting Group",
+     "records": 2
+    },
+    {
+     "no": 8887,
+     "name": "Email Connector Logo",
+     "records": 2
+    },
+    {
+     "no": 8060,
+     "name": "Billing Template",
+     "records": 2
+    },
+    {
+     "no": 6314,
+     "name": "Power BI Context Settings",
+     "records": 2
+    },
+    {
+     "no": 6312,
+     "name": "Power BI Displayed Element",
+     "records": 2
+    },
+    {
+     "no": 6100,
+     "name": "E-Document Purchase Header",
+     "records": 2
+    },
+    {
+     "no": 5611,
+     "name": "Depreciation Book",
+     "records": 2
+    },
+    {
+     "no": 5608,
+     "name": "FA Subclass",
+     "records": 2
+    },
+    {
+     "no": 5607,
+     "name": "FA Class",
+     "records": 2
+    },
+    {
+     "no": 5605,
+     "name": "FA Journal Setup",
+     "records": 2
+    },
+    {
+     "no": 5220,
+     "name": "Human Resource Unit of Measure",
+     "records": 2
+    },
+    {
+     "no": 5090,
+     "name": "Sales Cycle",
+     "records": 2
+    },
+    {
+     "no": 4511,
+     "name": "SMTP Account",
+     "records": 2
+    },
+    {
+     "no": 2670,
+     "name": "Allocation Account",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1213,
+     "name": "Data Exchange Type",
+     "records": 2
+    },
+    {
+     "no": 487,
+     "name": "Business Chart User Setup",
+     "records": 2
+    },
+    {
+     "no": 323,
+     "name": "VAT Business Posting Group",
+     "records": 2
+    },
+    {
+     "no": 292,
+     "name": "Reminder Terms",
+     "records": 2
+    },
+    {
+     "no": 273,
+     "name": "Bank Acc. Reconciliation",
+     "records": 2
+    },
+    {
+     "no": 245,
+     "name": "Requisition Wksh. Name",
+     "records": 2
+    },
+    {
+     "no": 244,
+     "name": "Req. Wksh. Template",
+     "records": 2
+    },
+    {
+     "no": 233,
+     "name": "Item Journal Batch",
+     "records": 2
+    },
+    {
+     "no": 94,
+     "name": "Inventory Posting Group",
+     "records": 2
+    },
+    {
+     "no": 5,
+     "name": "Finance Charge Terms",
+     "records": 2
+    },
+    {
+     "no": 156,
+     "name": "Resource",
+     "records": 1
+    },
+    {
+     "no": 8061,
+     "name": "Billing Line",
+     "records": 1
+    },
+    {
+     "no": 8059,
+     "name": "Subscription Line",
+     "records": 1
+    },
+    {
+     "no": 14,
+     "name": "Location",
+     "records": 1
+    },
+    {
+     "no": 1690,
+     "name": "Bank Deposit Header",
+     "records": 1
+    },
+    {
+     "no": 363,
+     "name": "Analysis View",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8930,
+     "name": "Email View Policy",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8052,
+     "name": "Customer Subscription Contract",
+     "records": 1
+    },
+    {
+     "no": 6103,
+     "name": "E-Document Service",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 1383,
+     "name": "Vendor Templ.",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 764,
+     "name": "Fin. Report Excel Template",
+     "records": 1
+    },
+    {
+     "no": 343,
+     "name": "Item Application Entry History",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 220,
+     "name": "Business Unit",
+     "records": 1
+    },
+    {
+     "no": 209,
+     "name": "Job Journal Template",
+     "records": 1
+    },
+    {
+     "no": 172,
+     "name": "Standard Customer Sales Code",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 60,
+     "name": "Document Sending Profile",
+     "records": 1
+    },
+    {
+     "no": 6,
+     "name": "Customer Price Group",
+     "records": 1
+    },
+    {
+     "no": 99000875,
+     "name": "Order Promising Setup",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10807,
+     "name": "Sales Tax Setup Wizard",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8906,
+     "name": "Email Scenario",
+     "records": 1
+    },
+    {
+     "no": 8631,
+     "name": "Config. Table Processing Rule",
+     "records": 1
+    },
+    {
+     "no": 8063,
+     "name": "Vendor Subscription Contract",
+     "records": 1
+    },
+    {
+     "no": 8062,
+     "name": "Cust. Sub. Contract Line",
+     "records": 1
+    },
+    {
+     "no": 8053,
+     "name": "Subscription Contract Type",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 7230,
+     "name": "Master Data Management Setup",
+     "records": 1
+    },
+    {
+     "no": 7160,
+     "name": "ABC Analysis Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6383,
+     "name": "Outlook Setup",
+     "records": 1
+    },
+    {
+     "no": 6307,
+     "name": "Power BI Report Uploads",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6116,
+     "name": "E-Doc. PO Matching Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5634,
+     "name": "Insurance Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 5633,
+     "name": "Insurance Journal Template",
+     "records": 1
+    },
+    {
+     "no": 5623,
+     "name": "FA Reclass. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 5622,
+     "name": "FA Reclass. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 2114,
+     "name": "O365 HTML Template",
+     "records": 1
+    },
+    {
+     "no": 2004,
+     "name": "Azure AI Usage",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1853,
+     "name": "MS - Sales Forecast Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1680,
+     "name": "Email Logging Setup",
+     "records": 1
+    },
+    {
+     "no": 1665,
+     "name": "MS Ceridian Payroll Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1540,
+     "name": "Workflow User Group",
+     "records": 1
+    },
+    {
+     "no": 1513,
+     "name": "Notification Schedule",
+     "records": 1
+    },
+    {
+     "no": 1512,
+     "name": "Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1437,
+     "name": "Headline Details Per User",
+     "records": 1
+    },
+    {
+     "no": 1317,
+     "name": "Trial Balance Cache Info",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1270,
+     "name": "OCR Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1182,
+     "name": "Journal User Preferences",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 1015,
+     "name": "Job Entry No.",
+     "records": 1
+    },
+    {
+     "no": 980,
+     "name": "Payment Registration Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 856,
+     "name": "Cash Flow Report Selection",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 840,
+     "name": "Cash Flow Forecast",
+     "records": 1
+    },
+    {
+     "no": 801,
+     "name": "Online Map Parameter Setup",
+     "records": 1
+    },
+    {
+     "no": 800,
+     "name": "Online Map Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 727,
+     "name": "Analysis by Dim. User Param.",
+     "records": 1
+    },
+    {
+     "no": 550,
+     "name": "VAT Rate Change Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 413,
+     "name": "IC Partner",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 257,
+     "name": "VAT Statement Name",
+     "records": 1
+    },
+    {
+     "no": 255,
+     "name": "VAT Statement Template",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 237,
+     "name": "Job Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 205,
+     "name": "Resource Unit of Measure",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 171,
+     "name": "Standard Sales Line",
+     "records": 1
+    },
+    {
+     "no": 170,
+     "name": "Standard Sales Code",
+     "records": 1
+    },
+    {
+     "no": 135,
+     "name": "Acc. Sched. KPI Web Srv. Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Milani Plumbing Heating LTD.",
+   "tablesInBc": 2053,
+   "sizeKb": 19928,
+   "tables": [
+    {
+     "no": 8615,
+     "name": "Config. Package Data",
+     "records": 43733
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 1064
+    },
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 935
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 23,
+     "name": "Vendor",
+     "records": 433
+    },
+    {
+     "no": 8614,
+     "name": "Config. Package Record",
+     "records": 433
+    },
+    {
+     "no": 8617,
+     "name": "Config. Package Error",
+     "records": 433
+    },
+    {
+     "no": 2682,
+     "name": "Data Search Setup (Field)",
+     "records": 359
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 287
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 410,
+     "name": "IC G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 216
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 166
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 81
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 2681,
+     "name": "Data Search Setup (Table)",
+     "records": 28
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 421,
+     "name": "Handled IC Inbox Jnl. Line",
+     "records": 12
+    },
+    {
+     "no": 38,
+     "name": "Purchase Header",
+     "records": 10
+    },
+    {
+     "no": 5477,
+     "name": "Purch. Inv. Entity Aggregate",
+     "records": 10
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 10
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 39,
+     "name": "Purchase Line",
+     "records": 9
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 700,
+     "name": "Error Message",
+     "records": 8
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 8
+    },
+    {
+     "no": 252,
+     "name": "General Posting Setup",
+     "records": 8
+    },
+    {
+     "no": 701,
+     "name": "Error Message Register",
+     "records": 8
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 349,
+     "name": "Dimension Value",
+     "records": 6
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 6
+    },
+    {
+     "no": 420,
+     "name": "Handled IC Inbox Trans.",
+     "records": 6
+    },
+    {
+     "no": 325,
+     "name": "VAT Posting Setup",
+     "records": 5
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 17,
+     "name": "G/L Entry",
+     "records": 4
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 4
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 4
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 4
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 322,
+     "name": "Tax Detail",
+     "records": 4
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 4
+    },
+    {
+     "no": 251,
+     "name": "Gen. Product Posting Group",
+     "records": 4
+    },
+    {
+     "no": 250,
+     "name": "Gen. Business Posting Group",
+     "records": 4
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 319,
+     "name": "Tax Area Line",
+     "records": 3
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 3
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 3
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 3
+    },
+    {
+     "no": 93,
+     "name": "Vendor Posting Group",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 3
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 3
+    },
+    {
+     "no": 45,
+     "name": "G/L Register",
+     "records": 2
+    },
+    {
+     "no": 415,
+     "name": "IC Outbox Jnl. Line",
+     "records": 2
+    },
+    {
+     "no": 320,
+     "name": "Tax Jurisdiction",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 589,
+     "name": "G/L Account Source Currency",
+     "records": 2
+    },
+    {
+     "no": 348,
+     "name": "Dimension",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 324,
+     "name": "VAT Product Posting Group",
+     "records": 2
+    },
+    {
+     "no": 318,
+     "name": "Tax Area",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 81,
+     "name": "Gen. Journal Line",
+     "records": 1
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 9,
+     "name": "Country/Region",
+     "records": 1
+    },
+    {
+     "no": 710,
+     "name": "Activity Log",
+     "records": 1
+    },
+    {
+     "no": 480,
+     "name": "Dimension Set Entry",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 414,
+     "name": "IC Outbox Transaction",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8631,
+     "name": "Config. Table Processing Rule",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1665,
+     "name": "MS Ceridian Payroll Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 481,
+     "name": "Dimension Set Tree Node",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 413,
+     "name": "IC Partner",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 323,
+     "name": "VAT Business Posting Group",
+     "records": 1
+    },
+    {
+     "no": 321,
+     "name": "Tax Group",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Pipe Staffing Limited",
+   "tablesInBc": 2053,
+   "sizeKb": 6768,
+   "tables": [
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 599
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 536
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 170
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 108
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 6
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 4
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 2
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  },
+  {
+   "bcName": "Rescue Restoration Service Ltd",
+   "tablesInBc": 2053,
+   "sizeKb": 6760,
+   "tables": [
+    {
+     "no": 3905,
+     "name": "Retention Policy Log Entry",
+     "records": 583
+    },
+    {
+     "no": 3712,
+     "name": "Translation",
+     "records": 536
+    },
+    {
+     "no": 1502,
+     "name": "Workflow Step",
+     "records": 518
+    },
+    {
+     "no": 1523,
+     "name": "Workflow Step Argument",
+     "records": 442
+    },
+    {
+     "no": 27039,
+     "name": "DIOT Country/Region Data",
+     "records": 249
+    },
+    {
+     "no": 15,
+     "name": "G/L Account",
+     "records": 226
+    },
+    {
+     "no": 1509,
+     "name": "WF Event/Response Combination",
+     "records": 182
+    },
+    {
+     "no": 474,
+     "name": "Job Queue Log Entry",
+     "records": 169
+    },
+    {
+     "no": 1990,
+     "name": "Guided Experience Item",
+     "records": 133
+    },
+    {
+     "no": 1518,
+     "name": "My Notifications",
+     "records": 108
+    },
+    {
+     "no": 85,
+     "name": "Acc. Schedule Line",
+     "records": 94
+    },
+    {
+     "no": 230,
+     "name": "Source Code",
+     "records": 81
+    },
+    {
+     "no": 77,
+     "name": "Report Selections",
+     "records": 72
+    },
+    {
+     "no": 1520,
+     "name": "Workflow Event",
+     "records": 55
+    },
+    {
+     "no": 8616,
+     "name": "Config. Package Field",
+     "records": 51
+    },
+    {
+     "no": 570,
+     "name": "G/L Account Category",
+     "records": 46
+    },
+    {
+     "no": 27030,
+     "name": "DIOT Concept",
+     "records": 46
+    },
+    {
+     "no": 1516,
+     "name": "Dynamic Request Page Field",
+     "records": 45
+    },
+    {
+     "no": 1521,
+     "name": "Workflow Response",
+     "records": 41
+    },
+    {
+     "no": 1501,
+     "name": "Workflow",
+     "records": 34
+    },
+    {
+     "no": 1505,
+     "name": "Workflow - Table Relation",
+     "records": 31
+    },
+    {
+     "no": 3903,
+     "name": "Retention Policy Allowed Table",
+     "records": 26
+    },
+    {
+     "no": 36953,
+     "name": "Account Category",
+     "records": 26
+    },
+    {
+     "no": 1252,
+     "name": "Bank Pmt. Appl. Rule",
+     "records": 25
+    },
+    {
+     "no": 405,
+     "name": "Change Log Entry",
+     "records": 21
+    },
+    {
+     "no": 1223,
+     "name": "Data Exch. Column Def",
+     "records": 20
+    },
+    {
+     "no": 1992,
+     "name": "Checklist Item Role",
+     "records": 19
+    },
+    {
+     "no": 1280,
+     "name": "Bank Clearing Standard",
+     "records": 18
+    },
+    {
+     "no": 61,
+     "name": "Electronic Document Format",
+     "records": 18
+    },
+    {
+     "no": 1991,
+     "name": "Checklist Item",
+     "records": 17
+    },
+    {
+     "no": 1237,
+     "name": "Transformation Rule",
+     "records": 13
+    },
+    {
+     "no": 8391,
+     "name": "Financial Report Category",
+     "records": 13
+    },
+    {
+     "no": 1225,
+     "name": "Data Exch. Field Mapping",
+     "records": 12
+    },
+    {
+     "no": 3901,
+     "name": "Retention Policy Setup",
+     "records": 12
+    },
+    {
+     "no": 7355,
+     "name": "Report Selection Warehouse",
+     "records": 10
+    },
+    {
+     "no": 1508,
+     "name": "Workflow Category",
+     "records": 10
+    },
+    {
+     "no": 1431,
+     "name": "Named Forward Link",
+     "records": 10
+    },
+    {
+     "no": 20102,
+     "name": "AMC Bank Pmt. Type",
+     "records": 9
+    },
+    {
+     "no": 1997,
+     "name": "Spotlight Tour Text",
+     "records": 8
+    },
+    {
+     "no": 1227,
+     "name": "Data Exch. Line Def",
+     "records": 7
+    },
+    {
+     "no": 36952,
+     "name": "Working Day",
+     "records": 7
+    },
+    {
+     "no": 1998,
+     "name": "Primary Guided Experience Item",
+     "records": 7
+    },
+    {
+     "no": 472,
+     "name": "Job Queue Entry",
+     "records": 6
+    },
+    {
+     "no": 1200,
+     "name": "Bank Export/Import Setup",
+     "records": 6
+    },
+    {
+     "no": 1006,
+     "name": "Job WIP Method",
+     "records": 5
+    },
+    {
+     "no": 685,
+     "name": "Payment Period",
+     "records": 5
+    },
+    {
+     "no": 3900,
+     "name": "Retention Period",
+     "records": 4
+    },
+    {
+     "no": 1515,
+     "name": "Dynamic Request Page Entity",
+     "records": 4
+    },
+    {
+     "no": 88,
+     "name": "Financial Report",
+     "records": 4
+    },
+    {
+     "no": 84,
+     "name": "Acc. Schedule Name",
+     "records": 4
+    },
+    {
+     "no": 7,
+     "name": "Standard Text",
+     "records": 4
+    },
+    {
+     "no": 3902,
+     "name": "Retention Policy Setup Line",
+     "records": 3
+    },
+    {
+     "no": 1222,
+     "name": "Data Exch. Def",
+     "records": 3
+    },
+    {
+     "no": 9701,
+     "name": "Cue Setup",
+     "records": 3
+    },
+    {
+     "no": 8703,
+     "name": "Feature Uptake",
+     "records": 3
+    },
+    {
+     "no": 8395,
+     "name": "Financial Report Status",
+     "records": 3
+    },
+    {
+     "no": 309,
+     "name": "No. Series Line",
+     "records": 2
+    },
+    {
+     "no": 9008,
+     "name": "User Login",
+     "records": 2
+    },
+    {
+     "no": 1994,
+     "name": "User Checklist Status",
+     "records": 2
+    },
+    {
+     "no": 1524,
+     "name": "Workflow Rule",
+     "records": 2
+    },
+    {
+     "no": 1311,
+     "name": "Last Used Chart",
+     "records": 2
+    },
+    {
+     "no": 1224,
+     "name": "Data Exch. Mapping",
+     "records": 2
+    },
+    {
+     "no": 471,
+     "name": "Job Queue Category",
+     "records": 2
+    },
+    {
+     "no": 334,
+     "name": "Column Layout",
+     "records": 2
+    },
+    {
+     "no": 333,
+     "name": "Column Layout Name",
+     "records": 2
+    },
+    {
+     "no": 308,
+     "name": "No. Series",
+     "records": 2
+    },
+    {
+     "no": 277,
+     "name": "Bank Account Posting Group",
+     "records": 2
+    },
+    {
+     "no": 270,
+     "name": "Bank Account",
+     "records": 1
+    },
+    {
+     "no": 80,
+     "name": "Gen. Journal Template",
+     "records": 1
+    },
+    {
+     "no": 9054,
+     "name": "Finance Cue",
+     "records": 1
+    },
+    {
+     "no": 8623,
+     "name": "Config. Package",
+     "records": 1
+    },
+    {
+     "no": 8613,
+     "name": "Config. Package Table",
+     "records": 1
+    },
+    {
+     "no": 5603,
+     "name": "FA Setup",
+     "records": 1
+    },
+    {
+     "no": 1313,
+     "name": "Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 1071,
+     "name": "MS - PayPal Standard Template",
+     "records": 1
+    },
+    {
+     "no": 1070,
+     "name": "MS - PayPal Standard Account",
+     "records": 1
+    },
+    {
+     "no": 312,
+     "name": "Purchases & Payables Setup",
+     "records": 1
+    },
+    {
+     "no": 311,
+     "name": "Sales & Receivables Setup",
+     "records": 1
+    },
+    {
+     "no": 289,
+     "name": "Payment Method",
+     "records": 1
+    },
+    {
+     "no": 242,
+     "name": "Source Code Setup",
+     "records": 1
+    },
+    {
+     "no": 98,
+     "name": "General Ledger Setup",
+     "records": 1
+    },
+    {
+     "no": 79,
+     "name": "Company Information",
+     "records": 1
+    },
+    {
+     "no": 4,
+     "name": "Currency",
+     "records": 1
+    },
+    {
+     "no": 99000765,
+     "name": "Manufacturing Setup",
+     "records": 1
+    },
+    {
+     "no": 36955,
+     "name": "PBI C. Income St. Source Code",
+     "records": 1
+    },
+    {
+     "no": 36951,
+     "name": "PowerBI Reports Setup",
+     "records": 1
+    },
+    {
+     "no": 30100,
+     "name": "Shpfy Cue",
+     "records": 1
+    },
+    {
+     "no": 22217,
+     "name": "G/L Entry Review Setup",
+     "records": 1
+    },
+    {
+     "no": 20101,
+     "name": "AMC Banking Setup",
+     "records": 1
+    },
+    {
+     "no": 10030,
+     "name": "IRS Forms Setup",
+     "records": 1
+    },
+    {
+     "no": 9144,
+     "name": "Approvals Activities Cue",
+     "records": 1
+    },
+    {
+     "no": 9066,
+     "name": "Job Queue Notification Setup",
+     "records": 1
+    },
+    {
+     "no": 9042,
+     "name": "Team Member Cue",
+     "records": 1
+    },
+    {
+     "no": 8627,
+     "name": "Config. Setup",
+     "records": 1
+    },
+    {
+     "no": 8051,
+     "name": "Subscription Contract Setup",
+     "records": 1
+    },
+    {
+     "no": 6930,
+     "name": "Expense Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 6303,
+     "name": "Azure AD Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 6217,
+     "name": "Sustainability Setup",
+     "records": 1
+    },
+    {
+     "no": 6060,
+     "name": "Hybrid Deployment Setup",
+     "records": 1
+    },
+    {
+     "no": 5911,
+     "name": "Service Mgt. Setup",
+     "records": 1
+    },
+    {
+     "no": 5769,
+     "name": "Warehouse Setup",
+     "records": 1
+    },
+    {
+     "no": 5719,
+     "name": "Nonstock Item Setup",
+     "records": 1
+    },
+    {
+     "no": 5264,
+     "name": "Audit File Export Setup",
+     "records": 1
+    },
+    {
+     "no": 5218,
+     "name": "Human Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 5122,
+     "name": "Interaction Template Setup",
+     "records": 1
+    },
+    {
+     "no": 5079,
+     "name": "Marketing Setup",
+     "records": 1
+    },
+    {
+     "no": 3303,
+     "name": "Payables Agent Setup",
+     "records": 1
+    },
+    {
+     "no": 1996,
+     "name": "Checklist Setup",
+     "records": 1
+    },
+    {
+     "no": 1950,
+     "name": "LP Machine Learning Setup",
+     "records": 1
+    },
+    {
+     "no": 1806,
+     "name": "Data Migration Setup",
+     "records": 1
+    },
+    {
+     "no": 1601,
+     "name": "Office Add-in Setup",
+     "records": 1
+    },
+    {
+     "no": 1450,
+     "name": "MS - Yodlee Bank Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1312,
+     "name": "Trial Balance Setup",
+     "records": 1
+    },
+    {
+     "no": 1275,
+     "name": "Doc. Exch. Service Setup",
+     "records": 1
+    },
+    {
+     "no": 1108,
+     "name": "Cost Accounting Setup",
+     "records": 1
+    },
+    {
+     "no": 905,
+     "name": "Assembly Setup",
+     "records": 1
+    },
+    {
+     "no": 843,
+     "name": "Cash Flow Setup",
+     "records": 1
+    },
+    {
+     "no": 762,
+     "name": "Account Schedules Chart Setup",
+     "records": 1
+    },
+    {
+     "no": 743,
+     "name": "VAT Report Setup",
+     "records": 1
+    },
+    {
+     "no": 443,
+     "name": "IC Setup",
+     "records": 1
+    },
+    {
+     "no": 330,
+     "name": "Currency Exchange Rate",
+     "records": 1
+    },
+    {
+     "no": 326,
+     "name": "Tax Setup",
+     "records": 1
+    },
+    {
+     "no": 315,
+     "name": "Jobs Setup",
+     "records": 1
+    },
+    {
+     "no": 314,
+     "name": "Resources Setup",
+     "records": 1
+    },
+    {
+     "no": 313,
+     "name": "Inventory Setup",
+     "records": 1
+    },
+    {
+     "no": 248,
+     "name": "VAT Reg. No. Srv Config",
+     "records": 1
+    },
+    {
+     "no": 232,
+     "name": "Gen. Journal Batch",
+     "records": 1
+    },
+    {
+     "no": 189,
+     "name": "VAT Setup",
+     "records": 1
+    },
+    {
+     "no": 131,
+     "name": "Incoming Documents Setup",
+     "records": 1
+    }
+   ]
+  }
+ ]
+}
