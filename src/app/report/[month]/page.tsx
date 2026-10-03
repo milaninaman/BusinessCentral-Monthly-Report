@@ -171,7 +171,7 @@ export default async function MonthPage({ params }: PageProps<"/report/[month]">
         {data.notes.projects.length > 0 && (
           <section className="pt-16">
             <PartHeading
-              title="Projects making the migration easier"
+              title="Projects which are making the migration easier"
               sub="Internal tools built to speed up and simplify the migration process."
             />
             <div className="grid gap-8 lg:grid-cols-2">
