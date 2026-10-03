@@ -1,5 +1,6 @@
 import type { AttentionItem, Project } from "@/lib/types";
 import { Alert, Check, Decision, External, Link2 } from "./icons";
+import { PasswordChip } from "./password-chip";
 import { Card, ProjectPill } from "./ui";
 
 export function ProjectCard({ p }: { p: Project }) {
@@ -59,16 +60,19 @@ export function ProjectCard({ p }: { p: Project }) {
       </details>
 
       {p.link && (
-        <a
-          href={p.link.url}
-          target="_blank"
-          rel="noreferrer"
-          className="no-print mt-5 inline-flex items-center gap-2 self-start rounded-lg bg-brand px-4 py-2.5 text-sm font-semibold text-white hover:bg-brand-strong"
-        >
-          <Link2 className="h-4 w-4" />
-          {p.link.label}
-          <External className="h-3.5 w-3.5" />
-        </a>
+        <div className="no-print mt-5 flex flex-wrap items-center gap-3">
+          <a
+            href={p.link.url}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center gap-2 rounded-lg bg-brand px-4 py-2.5 text-sm font-semibold text-white hover:bg-brand-strong"
+          >
+            <Link2 className="h-4 w-4" />
+            {p.link.label}
+            <External className="h-3.5 w-3.5" />
+          </a>
+          {p.link.password && <PasswordChip password={p.link.password} />}
+        </div>
       )}
     </Card>
   );

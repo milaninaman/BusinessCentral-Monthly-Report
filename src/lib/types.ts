@@ -25,7 +25,7 @@ export type Project = {
   impact: string;
   steps: { label: string; state: StepState }[];
   details: string[];
-  link?: { label: string; url: string };
+  link?: { label: string; url: string; password?: string };
 };
 
 export type AttentionItem = {

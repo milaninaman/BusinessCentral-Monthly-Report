@@ -14,7 +14,7 @@
       "summary": "A web app which uploads data from Excel files in bulk directly into Business Central, with no manual typing.",
       "impact": "Excel files received from OnePlus can now be loaded into BC in bulk, which makes moving each company's data across much faster.",
       "steps": [
-         {
+        {
           "label": "create AL and Python Scripts",
           "state": "done"
         },
@@ -56,7 +56,8 @@
       ],
       "link": {
         "label": "Open the app",
-        "url": "https://inbound-loader-ui.vercel.app/login?next=%2F"
+        "url": "https://inbound-loader-ui.vercel.app/login?next=%2F",
+        "password": "Milani@2026"
       }
     },
     {
@@ -67,8 +68,10 @@
       "summary": "Reads e-signed MMRP forms automatically and fills in the matching Business Central fields.",
       "impact": "Complex MMRP form data goes straight into BC. Staff only check and correct it instead of typing it in.",
       "steps": [
-        {"label": "setup alias azure account",
-      "state": "done"},
+        {
+          "label": "setup alias azure account",
+          "state": "done"
+        },
         {
           "label": "Labelled MMRP forms",
           "state": "done"
@@ -93,8 +96,10 @@
           "label": "Publish extension in BC",
           "state": "todo"
         },
-        {"label": "Testing the extension with real data",
-      "state": "todo"}
+        {
+          "label": "Testing the extension with real data",
+          "state": "todo"
+        }
       ],
       "details": [
         "A Business Central extension that uses an Azure Function with Microsoft Document Intelligence.",
@@ -116,12 +121,12 @@
       "detail": "Angus is the only one with Microsoft Azure admin access. He's needed to move the trained OCR model to the company account. The Inbound Excel Loader no longer depends on him."
     },
     {
-      "kind":"dependency",
-      "title":" Need Entra access from Microsoft Azure [ANGUS].",
+      "kind": "dependency",
+      "title": " Need Entra access from Microsoft Azure [ANGUS].",
       "detail": "Need Entra access to setup Microsoft MFA on Inbound Loader Application, and another CLIENT ID for Milani Mobile Application"
     },
     {
-      "kind":"dependency",
+      "kind": "dependency",
       "title": "Need OnePlus API [THIRD-PARTY VENDOR].",
       "detail": "Need OnePlus API to sync Mobile Application and Website with OnePlus Database."
     }
